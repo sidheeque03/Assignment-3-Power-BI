@@ -1,0 +1,1 @@
+assignment summary includes importing the datasets, transforming the data by grouping and aggregating sales targets, and building a data model by establishing relationships between the tables using Order ID and Category.
